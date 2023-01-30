@@ -1,0 +1,15 @@
+{
+    "name": "PhotoPix-master",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon srever.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express.js": "^1.0.0",
+        "nodemon": "^2.0.15"
+    }
+}
